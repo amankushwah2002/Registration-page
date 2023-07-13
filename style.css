@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  background-size: cover;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-image: url(green-slate.jpg);
+ 
+}
+label {
+  font-weight: 600;
+}
+.center {
+  width: 500px;
+  height: 32rem;
+  align-items: center;
+  margin-top: 170px;
+  background: #ddffd9;
+  border-radius: 15px;
+}
+
+.center h2 {
+  padding-top: 15px; ;
+  margin-left: 180px;
+  font-weight: 700;
+  color: green;
+}
+
+.register button {
+
+  width: 75%;
+  height: 40px;
+  border: 1px solid;
+  cursor: pointer;
+  background: green;
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: 700;
+  color: white;
+}
